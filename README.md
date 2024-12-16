@@ -1,5 +1,3 @@
 # sk-mine-save
 
-Save de minecraft do sklauncher
-
-Add
+Save de minecraft do sklaunche
